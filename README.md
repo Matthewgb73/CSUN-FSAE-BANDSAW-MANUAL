@@ -19,4 +19,4 @@ The guide is a manual for operating and maintaing the Rutland Bandsaw in the HAA
     * Bandsaw blade    https://www.mcmaster.com/1997A511/
     * Tube fitting for coolant line   https://www.mcmaster.com/7397N19/ 
 
-## OPERATION
+## OPERATION ⚒️
