@@ -14,5 +14,9 @@ The guide is a manual for operating and maintaing the Rutland Bandsaw in the HAA
 ## MAINTENANCE 🧹
 * IF YOU NOTICE ANYTHING BROKEN, NOTIFY SOMEONE ON MANUFACTURING TEAM
 * THE BANDSAW SHOULD NEVER BE LEFT IN THIS CONDITION ![20220628_154417 (1)](https://user-images.githubusercontent.com/80706125/176318396-01512ef7-1326-4b1a-93fe-92719e0ac405.jpg)
+* If parts are needed to be purchased, inform manufacturing team and they will order what part is needed to fix the bandsaw
+    * bandsaw v-belt    https://www.mcmaster.com/v-belts/outer-circumference~34-1-2/
+    * Bandsaw blade    https://www.mcmaster.com/1997A511/
+    * Tube fitting for coolant line   https://www.mcmaster.com/7397N19/ 
 
 ## OPERATION
