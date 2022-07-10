@@ -22,12 +22,12 @@ The purpose of this guide is to provide a set of clear instruction on the use of
 
 ## OPERATION ⚒️
 * Inspect Bandsaw Machine 
-   * Before using the Bandsaw machine, make sure that the machine is operational. If the bandsaw machine is not operational,refer to the maintenance procedure or ask a faculty member to fix the machine.  
-    * This means inspect the blade, cables, coolant/oil, and control panels.
-    * The blade should be in good condition with no large scratches or appear bent.
-    * The cables should be out of the way and in good condition with insulation encasing the entire wire. 
-    * The coolant/oil should be at a high level and appear light blue, refer to HAAS machines for reference.
-    * Control panel should be clean and in good condition.![image](https://user-images.githubusercontent.com/80706125/178127883-ec07ffac-e279-40fb-815b-cf5758fd3b46.png)
+ * Before using the Bandsaw machine, make sure that the machine is operational. If the bandsaw machine is not   operational,refer to the maintenance procedure or ask a faculty member to fix the machine.  
+     * This means inspect the blade, cables, coolant/oil, and control panels.
+     * The blade should be in good condition with no large scratches or appear bent.
+     * The cables should be out of the way and in good condition with insulation encasing the entire wire. 
+     * The coolant/oil should be at a high level and appear light blue, refer to HAAS machines for reference.
+     * Control panel should be clean and in good condition.![image](https://user-images.githubusercontent.com/80706125/178127883-ec07ffac-e279-40fb-815b-cf5758fd3b46.png)
 
 * Secure Material that needs to be cut
    * Use the clamps on the bandsaw machine to tightly secure your material. To adjust the clamps, simply spin the wheel handle on the lefthand side of the machine in a clockwise direction. If a major adjustment needs to be made simply raise the tab behind the cutting blade and relocate it to the distance desired. The clamps will NOT be adjusted if the tab is not secured first.
