@@ -40,4 +40,15 @@ The purpose of this guide is to provide a set of clear instruction on the use of
    * NEVER TOUCH BLADE SAW ADJUSTMENT (above the wheel handle). The only reason someone should touch it is if it falls off. If this happens contact a faculty member. 
    ![image](https://user-images.githubusercontent.com/80706125/178128000-1533737e-c065-49ce-b8db-5d9c06bdd9a6.png)
 
-*
+* Cutting Sequence
+   * Once your material is secured, adjust the setting on the bandsaw machine control panel. 
+   ![image](https://user-images.githubusercontent.com/80706125/178128164-8e8839b2-ca9e-4bab-bf95-0151ac657da3.png)
+      * To adjust the speed of how fast the saw will cut through the material, adjust the cutting speed handle (5th from the left) accordingly. (For more speed, move the speed handle clockwise. To go slower, move the speed handle counterclockwise.).
+      * To adjust the output of coolant nozzle, adjust the handle (4th from the left) accordingly.
+      * To turn on the bandsaw machine, simply press the ON button (2nd from the left, green button)
+      * The EMERGECNY STOP button is the big red button (3rd from the left) 
+   * Once all the settings have been adjusted to the users liking, aim the nozzle where the bandsaw will cut the material. Afterwards, activate the bandsaw machine by adjusting the speed handle. It should noted that once the speed handle has been adjusted, the bandsaw machine will automatically begin coming down.![image](https://user-images.githubusercontent.com/80706125/178128376-1974ad1d-04a5-4a03-a9cd-66693ac497d6.png)
+   * IMPORTANT: When bandsaw machine is active, user should not leave the area until the cut is complete. In addition, the user should NEVER press the button. The bandsaw machine will touch the button when it fully comes down which will turn off the machine. 
+   
+* Aftermath
+   * Once your material is successfully cut: raise the bandsaw machine cover, loosen the clamps by rotating the wheel handle counterclockwise, remove the material, and clean the machine. 
