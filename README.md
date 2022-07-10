@@ -1,4 +1,6 @@
 # CSUN-FSAE-BANDSAW-MANUAL
+Written by: 2022-2023 CSUN FSAE TEAM
+
 The purpose of this guide is to provide a set of clear instruction on the use of the Bandsaw Machine. This document applies to all persons who may operate, maintain, or interact with the bandsaw machine. It is the ultimate responsibility of the student to decide on whether they are prepared to use the equipment and if they are not, it is their responsibility to escalate their concerns to a member of faculty such a senior design professor, machine shop technician, or HAAS lab technician.
 
 ## SAFETY ⚠️
