@@ -18,9 +18,7 @@ The purpose of this guide is to provide a set of clear instruction on the use of
 * IF YOU NOTICE ANYTHING BROKEN, NOTIFY A FACULTY MEMBER
 * THE BANDSAW SHOULD NEVER BE LEFT IN THIS CONDITION ![20220628_154417 (1)](https://user-images.githubusercontent.com/80706125/176318396-01512ef7-1326-4b1a-93fe-92719e0ac405.jpg)
 * If parts are needed to be purchased, inform a faculty member and they will order what part is needed to fix the bandsaw
-    * bandsaw v-belt    https://www.mcmaster.com/v-belts/outer-circumference~34-1-2/
-    * Bandsaw blade    https://www.mcmaster.com/1997A511/
-    * Tube fitting for coolant line   https://www.mcmaster.com/7397N19/ 
+    * bandsaw v-belt    https://www.mcmaster.com/v-belts/outer-circumference~34-1-2/  
 
 ## OPERATION ⚒️
 * Inspect Bandsaw Machine 
